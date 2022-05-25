@@ -1,5 +1,5 @@
 {
-  "name": "code-editor",
+  "name": "code-editor-renderer",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -45,7 +45,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react": "^18.1.0",
+    "react-dom": "^18.0.0"
   }
 }
